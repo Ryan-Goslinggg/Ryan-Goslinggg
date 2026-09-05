@@ -18,6 +18,7 @@ I am an individual who likes to have a good energy to the circle that I work on 
 ------------------------------------------------------------------------------------------------------------
 
 "I am the smartest man because I know nothing" 	☀️	☀️	☀️
+
 This quote gives me grit to keep on studying and knowing how things work in this planet, in a span of a lifetime. 
 
 ------------------------------------------------------------------------------------------------------------
