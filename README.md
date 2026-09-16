@@ -1,4 +1,3 @@
-assets/levi-ackerman-8k-7680x4320-22850.jpg
 
 <p align="center">
   <img src="assets/levi-ackerman-8k-7680x4320-22850.jpg" alt="System diagram" width="500">
@@ -6,7 +5,7 @@ assets/levi-ackerman-8k-7680x4320-22850.jpg
   <em>kamukha ko legit</em>
 </p>
 
- ##Hi there! 👋👋👋
+ ## Hi there! 👋👋👋
 
  🔭 What institution am I from: 
  
@@ -38,4 +37,4 @@ FACEBOOK : Orlina Daniel Joseph
 
 GMAIL : orlina.danieljoseph062307@gmail.com
 
-Godbless💖
+### Godbless💖
