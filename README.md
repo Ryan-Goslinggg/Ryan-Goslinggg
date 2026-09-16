@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="C:\Users\danie\OneDrive\Pictures\levi-ackerman-8k-7680x4320-22850.jpg" alt="real face" width="500">
-  <br>
-  <em>Figure 1: System overview</em>
-</p>
- 
- 
- 
+
  Hi there! 👋👋👋
 
  🔭 What institution am I from: 
