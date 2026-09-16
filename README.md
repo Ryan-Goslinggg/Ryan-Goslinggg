@@ -1,5 +1,12 @@
-<img src="assets/levi-ackerman-8k-7680x4320-22850.jpg" alt="Levi Ackerman" width="500">
- Hi there! 👋👋👋
+assets/levi-ackerman-8k-7680x4320-22850.jpg
+
+<p align="center">
+  <img src="assets/levi-ackerman-8k-7680x4320-22850.jpg" alt="System diagram" width="500">
+  <br>
+  <em>kamukha ko legit</em>
+</p>
+
+ ##Hi there! 👋👋👋
 
  🔭 What institution am I from: 
  
